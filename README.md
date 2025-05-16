@@ -1,1 +1,1 @@
-# Movieshut
+# README placeholder
